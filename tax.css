@@ -22,5 +22,20 @@ a{
     text-decoration: none;
 }
 main{
-    height: 500px;
+    height: 850px;
+}
+.contentbox{
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    display: inline-block;
+}
+
+footer{
+    height: 60px;   
+    background-color: #0f1111;
+    color: antiquewhite;
+    text-align: center;
 }
