@@ -45,3 +45,10 @@ footer{
     left: 50px;
 
 }
+#box{
+    height: 825px;
+    width: 250px;
+    position: absolute;
+    right: 0px;
+    top: 60px;
+}
