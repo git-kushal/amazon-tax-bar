@@ -14,3 +14,16 @@ body{
 
 }
 
+.product-card{
+    width: 280px;
+    background:#0000008f;
+    border-radius: 20px;
+    overflow: hidden;
+    color: aliceblue;
+    box-shadow: 0 1e5px 40px rgba(0,0,0,0.6);
+    transition: 0.4s;
+    border: 2px solid red;
+}
+.product-card:hover{
+    transform: translateY(-12px);
+}
