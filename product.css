@@ -27,3 +27,13 @@ body{
 .product-card:hover{
     transform: translateY(-12px);
 }
+
+.image-box{
+    position: relative;
+    overflow: hidden;
+    
+}
+.image-box{
+    width: 100%
+    transition: 0.4s;
+}
