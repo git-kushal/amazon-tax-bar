@@ -6,5 +6,11 @@
 }
 
 body{
-    in
+    min-width: 100vh;
+    background: #0f2027;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
+
