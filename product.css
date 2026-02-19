@@ -81,3 +81,14 @@ body{
 .rating span{
     color: #aaa;
 }
+
+
+button{
+    padding: 10px 25px ;
+    border: none;
+    border-radius: 25px;
+    background: red;
+    color: #000;
+    cursor: pointer;
+    transition: 0.3s;
+}
