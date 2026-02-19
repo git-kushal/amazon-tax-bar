@@ -71,5 +71,13 @@ body{
 .price .old{
     text-decoration: line-through;
     color: #888;
+}
 
+.rating{
+    margin-bottom: 15px;
+    font-size: 14px;
+    color: gold;
+}
+.rating span{
+    color: #aaa;
 }
