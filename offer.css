@@ -24,6 +24,7 @@ body {
     color: #fff;
     transition: all 0.4s ease;
     position: relative;
+    margin: 20px;
 }
 
 .product-card:hover {
@@ -31,7 +32,9 @@ body {
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
 }
 
+
 /* Image Box Styling */
+
 .image-box {
     position: relative;
     width: 100%;
@@ -50,7 +53,9 @@ body {
     transform: scale(1.15);
 }
 
+
 /* Discount Badge */
+
 .discount {
     position: absolute;
     top: 15px;
@@ -64,7 +69,9 @@ body {
     z-index: 2;
 }
 
+
 /* Wishlist Icon */
+
 .wishlist-icon {
     position: absolute;
     top: 15px;
@@ -86,7 +93,9 @@ body {
     color: white;
 }
 
+
 /* Content Styling */
+
 .content {
     padding: 20px;
     text-align: center;
@@ -107,7 +116,9 @@ body {
     color: #fff;
 }
 
+
 /* Rating */
+
 .rating {
     display: flex;
     justify-content: center;
@@ -124,7 +135,9 @@ body {
     margin-left: 5px;
 }
 
+
 /* Price */
+
 .price-row {
     display: flex;
     justify-content: center;
@@ -145,7 +158,9 @@ body {
     font-size: 16px;
 }
 
+
 /* Button */
+
 .cart-btn {
     width: 100%;
     padding: 12px;
